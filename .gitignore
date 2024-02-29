@@ -4,4 +4,4 @@
 # But not these files...
 !.gitignore
 !*.md
-!*.txt
+!hosts.txt
