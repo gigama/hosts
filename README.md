@@ -1,18 +1,17 @@
 # gigama.net 
 
-## pihole-block-list
+Title: pihole-block-list
 
 Modified: Thu 2024-02-29 03:00:12 UTC
 
-Homepage: [https://gigama.net/hosts/](https://gigama.net/hosts/)
+Homepage: [https://github.com/gigama/hosts](https://github.com/gigama/hosts)
 
 ```
 (C) Copyright 2024 gigama.net
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-http://www.apache.org/licenses/LICENSE-2.0
+Copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
